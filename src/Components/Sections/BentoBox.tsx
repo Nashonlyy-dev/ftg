@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 import { Code2, Trophy, Coins } from "lucide-react";
 
 export const BentoBox: React.FC = () => {

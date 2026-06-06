@@ -1,5 +1,5 @@
 
-import Hero from './components//Sections/Hero';
+import Hero from './components/Sections/Hero';
 import { TheWhy } from './Components/Sections/TheWhy';
 import { BentoBox } from './Components/Sections/BentoBox';
 import { AppPreview } from './Components/Sections/AppPreview';
